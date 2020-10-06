@@ -22,3 +22,20 @@ h3 {
 svg {
   @apply inline;
 }
+
+#banner-image {
+  display: block;
+  position: relative;
+}
+
+#banner-image::after {
+  content: "";
+  background-image: url('/assets/images/banner-image.jpg');
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
