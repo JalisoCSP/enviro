@@ -2,7 +2,7 @@
 
 Simple website for a local electrics company in Jekyll
 
-https://pedantic-ramanujan-00d336.netlify.app/
+https://gallant-wright-da5879.netlify.app/
 
 ## Steps to use
 - Create a new repo, using this one as the template.
